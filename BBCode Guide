@@ -66,7 +66,7 @@ Regular Dragon Image:
 [img]http://flightrising.com/rendern/350/325407/32540614_350.png[/img]
 Tiny Dragon Image:
 [img]http://flightrising.com/rendern/avatars/325407/32540614.png[/img]
-The first '350' is changed to 'avatar' and the '_350' is removed.
+The first '350' is changed to 'avatars' and the '_350' is removed. (Also remove the extra stuff after .png)
 
 
 FR Images and Links
