@@ -37,7 +37,7 @@ The whole thing![/indent]
 
 [color=red] This text is red![/color]
 [color=b819d1] This text is the color #b819d1![/color]
-[color=transparent] This text is transparent! You'll have to highlight it to see it.[/color]
+[color=transparent] This text is transparent! You'll have to highlight it to see it. You can add 'invisible spacers' with this![/color]
 
 [size=0] This text is small![/size]
 [size=4] This text is medium-sized![/size]
